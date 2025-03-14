@@ -23,7 +23,7 @@ export default function Home() {
 
       {/* CTA Buttons */}
       <div className="mt-8 sm:mt-12 flex flex-col sm:flex-row gap-6 sm:gap-8">
-        <Link href="http://localhost:3001">
+        <Link href="https://chat-messageai-client.vercel.app/">
           <div className="p-5 sm:p-6 bg-white shadow-xl rounded-2xl text-center w-64 sm:w-72 cursor-pointer hover:scale-105 transition-transform duration-300 border border-blue-300">
             <h3 className="text-blue-700 font-semibold text-lg sm:text-xl">Start Now</h3>
             <p className="text-gray-600 mt-2 text-sm sm:text-base">
