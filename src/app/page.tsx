@@ -32,7 +32,7 @@ export default function Home() {
           </div>
         </Link>
 
-        <Link href="/download">
+        <Link href="https://chat.allmodelhub.me/">
           <div className="p-5 sm:p-6 bg-white shadow-xl rounded-2xl text-center w-64 sm:w-72 cursor-pointer hover:scale-105 transition-transform duration-300 border border-blue-300">
             <h3 className="text-blue-700 font-semibold text-lg sm:text-xl">Get Proxima App</h3>
             <p className="text-gray-600 mt-2 text-sm sm:text-base">
